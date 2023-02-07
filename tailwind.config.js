@@ -18,6 +18,9 @@ module.exports = {
         deepBlueHead: "#162f56",
         gray2: "#525a76",
       },
+      backgroundImage: {
+        "feature2-img": "url('assets/feature-section-2BG.svg')",
+      },
     },
   },
   plugins: [],
