@@ -4,6 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Card animation and transition */
 .card:hover {
   filter: drop-shadow(0 0 12px rgba(236, 236, 236, 0.801));
 }
