@@ -8,6 +8,11 @@
 .card:hover {
   filter: drop-shadow(0 0 12px rgba(236, 236, 236, 0.801));
 }
+.card2:hover {
+  filter: drop-shadow(0 0 6px rgba(236, 236, 236, 0.801));
+}
+
+/*  */
 
 .card:hover > .imgcircle {
   background-color: #0b72e7;

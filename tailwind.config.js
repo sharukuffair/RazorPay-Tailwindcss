@@ -20,6 +20,8 @@ module.exports = {
       },
       backgroundImage: {
         "feature2-img": "url('assets/feature-section-2BG.svg')",
+        cardBgImg: "url('assets/instant-settlement-bg.svg')",
+        cardBgImgHover: "url('assets/instant-settlement-bghover.svg')",
       },
     },
   },
